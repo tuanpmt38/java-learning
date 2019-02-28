@@ -1,0 +1,70 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreakInJava",
+            "request": "launch",
+            "mainClass": "BreakInJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreakInjava",
+            "request": "launch",
+            "mainClass": "BreakInjava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cricle1",
+            "request": "launch",
+            "mainClass": "Cricle1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cricle",
+            "request": "launch",
+            "mainClass": "Cricle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoInterface2",
+            "request": "launch",
+            "mainClass": "DemoInterface2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestInterface2",
+            "request": "launch",
+            "mainClass": "TestInterface2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestInterface1",
+            "request": "launch",
+            "mainClass": "TestInterface1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestInterface",
+            "request": "launch",
+            "mainClass": "TestInterface"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestAbstract",
+            "request": "launch",
+            "mainClass": "TestAbstract"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dahinh",
+            "request": "launch",
+            "mainClass": "Dahinh"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kethua",
+            "request": "launch",
+            "mainClass": "Kethua"
+        }
+    ]
+}
